@@ -1,0 +1,17 @@
+node_modules
+dist
+build
+.git
+.env*
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+Dockerfile
+.dockerignore
+README.md
+*.md
+logs
+*.log
+.npm
+.cache
